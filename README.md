@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Привет, я Николай
 
-<!--
-**n-porutchikov/n-porutchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Аналитик данных
 
-Here are some ideas to get you started:
+- Принимаю решения на основе данных, а не догадок.
+- Люблю решать задачи на логику (Codewars, LeetCode).
+- Из театра в аналитику — управляю проектами и довожу до результата.
+- 📫 Telegram | nikolai.porutchikov@mail.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Инструменты
+
+`Python` `SQL` `DataLens` `Tableau` `Airflow` `Git` `Jupyter` `Excel`
+
+### 📌 Умею
+
+Когортный анализ, A/B тестирование, оконные функции, дашборды, работа с БД (ClickHouse, MySQL, PostgreSQL)
+
+### 📁 Проекты
+
+За время обучения на karpov.courses выполнил несколько проектов по анализу данных. Самые интересные выложу здесь.
