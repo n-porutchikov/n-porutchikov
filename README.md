@@ -1,23 +1,18 @@
 <h1 align="center">👋 Привет, я Николай</h1>
 
 
-<div style="text-align: center; font-family: Arial, sans-serif;">
-  <!-- Кнопка Telegram -->
-  <a href="https://t.me/@NikolaiPor" style="text-decoration: none; display: inline-block; margin: 5px;">
-    <div style="background-color: #0088cc; color: #ffffff; font-weight: bold; font-size: 14px; padding: 10px 20px; border-radius: 4px; display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" alt="Telegram" style="display: block; filter: brightness(0) invert(1);"/>
-      <span>TELEGRAM</span>
-    </div>
+<p align="center">
+  <a href="https://t.me/@NikolaiPor">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vk.com/k.porutchikov">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=white" />
   </a>
+</p>
 
-  <!-- Кнопка VK -->
-  <a href="https://vk.com/k.porutchikov" style="text-decoration: none; display: inline-block; margin: 5px;">
-    <div style="background-color: #0077FF; color: #ffffff; font-weight: bold; font-size: 14px; padding: 10px 20px; border-radius: 4px; display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com_logo.svg" width="20" height="20" alt="VK" style="display: block; filter: brightness(0) invert(1);"/>
-      <span>VK</span>
-    </div>
-  </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n-porutchikov&label=Profile%20views&color=0e75b6&style=flat" alt="n-porutchikov" />
+</p>
 
 
 ## 📊 Обо мне
