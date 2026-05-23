@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Seaborn-white?logo=Seaborn&logoColor=black&style=for-the-badge" title="Seaborn" alt="Seaborn" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib&logoColor=black&style=for-the-badge" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Excel-white?logo=microsoftexcel&logoColor=green&style=for-the-badge" title="Excel" alt="Excel" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Datalens-white?logo=Datalens&style=for-the-badge" title="DataLens" alt="DataLens" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=black" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API" title="API" alt="API" height="40"/>&nbsp;
