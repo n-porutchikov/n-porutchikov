@@ -22,7 +22,6 @@
 
 
 <h3 align="left">🛠 Инструменты:</h3>
-
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #333;">
   <h3 style="margin-bottom: 15px; font-weight: 600;">
     <span style="font-size: 1.2em; margin-right: 8px;">🛠️</span>Языки и инструменты :
