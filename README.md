@@ -11,21 +11,70 @@
 
 ### 🛠 Инструменты
 
-- 🐍 **PYTHON**
-- 🐼 **PANDAS**
-- 🔢 **NUMPY**
-- 📈 **PLOTLY**
-- 📊 **SCIPY**
-- 📓 **JUPYTER NOTEBOOK**
-- 🗄️ **CLICKHOUSE**
-- 🐬 **MYSQL**
-- 🐘 **POSTGRESQL**
-- 📉 **REDASH**
-- 📊 **TABLEAU**
-- 🐙 **GITHUB**
-- 🔄 **AIRFLOW**
-- 🎸 **DJANGO**
-- 🌐 **NGINX**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/><br>
+      PYTHON
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25" height="25"/><br>
+      PANDAS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="25" height="25"/><br>
+      NUMPY
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="25" height="25"/><br>
+      PLOTLY
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="25" height="25"/><br>
+      SCIPY
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="25" height="25"/><br>
+      JUPYTER NOTEBOOK
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickhouse/clickhouse-original.svg" width="25" height="25"/><br>
+      CLICKHOUSE
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"/><br>
+      MYSQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25"/><br>
+      POSTGRESQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redash/redash-original.svg" width="25" height="25"/><br>
+      REDASH
+    </td>
+    <td align="center">
+      TABLEAU
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25"/><br>
+      GITHUB
+    </td>
+    <td align="center">
+      AIRFLOW
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25" height="25"/><br>
+      DJANGO
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="25" height="25"/><br>
+      NGINX
+    </td>
+  </tr>
+</table>
 
 ### 📌 Умею
 
