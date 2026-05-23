@@ -12,61 +12,61 @@
 ### 🛠 Инструменты
 <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; line-height: 1.4;">
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>PYTHON</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    PYTHON
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>SQL</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    SQL
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>PANDAS</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    PANDAS
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>NUMPY</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    NUMPY
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>PLOTLY</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    PLOTLY
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <sub>SCIPY</sub>
+    SCIPY
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>SEABORN</sub>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    SEABORN
   </span>
   <br/><br/>
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>MATPLOTLIB</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    MATPLOTLIB
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>JUPYTER</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    JUPYTER
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <sub>DATALENS</sub>
+    DATALENS
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>AIRFLOW</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    AIRFLOW
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>API</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    API
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>GIT</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="12" height="12" style="vertical-align: baseline; margin-right: 2px;"/> 
+    GIT
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <sub>TABLEAU</sub>
+    TABLEAU
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <sub>EXCEL</sub>
+    EXCEL
   </span>
 </p>
 
