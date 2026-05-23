@@ -22,31 +22,26 @@
 
 
 <h3 align="left">🛠 Инструменты:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python">
-    <b>ПИТОН</b>
-  </div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> PYTHON &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16"/> SQL &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="16" height="16"/> PANDAS &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="16" height="16"/> NUMPY &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="16" height="16"/> PLOTLY &nbsp;&nbsp;&nbsp;&nbsp;
+  SCIPY &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="16" height="16"/> SEABORN
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="16" height="16"/> MATPLOTLIB &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="16" height="16"/> JUPYTER &nbsp;&nbsp;&nbsp;&nbsp;
+  REDASH &nbsp;&nbsp;&nbsp;&nbsp;
+  DATALENS &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="16" height="16"/> AIRFLOW &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="16" height="16"/> API &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16"/> GIT
+</p>
 
-  <div style="display: flex; align-items: center; gap: 8px; background-color: #007bff; color: white; padding: 4px 10px; border-radius: 6px; font-weight: bold;">
-    <span>SQL</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24" alt="PostgreSQL">
-    <b>POSTGRESQL</b>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24" height="24" alt="Pandas">
-    <b>PANDAS</b>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" height="24" alt="Numpy">
-    <b>NUMPY</b>
-  </div>
-</div>
+Связь со мной:
 
 
 ---
