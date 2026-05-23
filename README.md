@@ -10,7 +10,7 @@
 ---
 
 ### 🛠 Инструменты
-<p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 9px; line-height: 1.3;">
+<p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 7px; line-height: 1.2;">
   <span style="display: inline-block; vertical-align: middle;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10" height="10" style="vertical-align: baseline; margin-right: 2px;"/> 
     PYTHON
