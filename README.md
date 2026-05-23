@@ -10,56 +10,56 @@
 ---
 
 ### 🛠 Инструменты
-<p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.2;">
+<p style="line-height: 1.2;">
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>PYTHON</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>SQL</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>PANDAS</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>NUMPY</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>PLOTLY</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
     <sub>SCIPY</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>SEABORN</sub>
   </span>
   <br/><br/>
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>MATPLOTLIB</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>JUPYTER</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
     <sub>DATALENS</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>AIRFLOW</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>API</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="10" height="10" style="vertical-align: middle; margin-right: 2px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 3px;"/> 
     <sub>GIT</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
@@ -69,7 +69,6 @@
     <sub>EXCEL</sub>
   </span>
 </p>
-
 ### 📌 Умею
 
 Когортный анализ, A/B тестирование, оконные функции, дашборды, работа с БД (ClickHouse, MySQL, PostgreSQL)
