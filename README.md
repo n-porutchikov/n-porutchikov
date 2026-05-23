@@ -38,7 +38,6 @@
         <b>PLOTLY</b>
        </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="30" height="30"/><br>
         <b>SCIPY</b>
        </td>
       <td align="center" width="120">
@@ -56,13 +55,6 @@
         <b>JUPYTER</b>
        </td>
       <td align="center" width="120">
-        <!-- Синий значок с гистограммой для DATALENS -->
-        <svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <rect x="4" y="12" width="3" height="10" fill="#2196F3" />
-          <rect x="9" y="8" width="3" height="14" fill="#2196F3" />
-          <rect x="14" y="4" width="3" height="18" fill="#2196F3" />
-          <rect x="19" y="10" width="3" height="12" fill="#2196F3" />
-        </svg><br>
         <b>DATALENS</b>
        </td>
       <td align="center" width="120">
