@@ -1,5 +1,10 @@
 <h1 align="center">👋 Привет, я Николай</h1>
 
+<p align="center">
+  <a href="https://t.me/@NikolaiPor">TELEGRAM</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vk.com/k.porutchikov">VK</a>
+</p>
+
 ## 📊 Обо мне
 
 - Принимаю решения на основе данных, а не догадок.
