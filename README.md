@@ -1,5 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/du3J3Xyzhj75IOgvA/giphy.gif" width="40" style="vertical-align: middle;" /> 
+<h1 
   Привет, я Николай
 </h1>
 
