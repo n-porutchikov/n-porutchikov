@@ -11,7 +11,21 @@
 
 ### 🛠 Инструменты
 
-Python  Pandas  Numpy  Plotly  Scipy  Jupyter  ClickHouse  MySQL  PostgreSQL  Redash  Airflow  GitHub  Airflow  Django  Nginx 
+- 🐍 **PYTHON**
+- 🐼 **PANDAS**
+- 🔢 **NUMPY**
+- 📈 **PLOTLY**
+- 📊 **SCIPY**
+- 📓 **JUPYTER NOTEBOOK**
+- 🗄️ **CLICKHOUSE**
+- 🐬 **MYSQL**
+- 🐘 **POSTGRESQL**
+- 📉 **REDASH**
+- 📊 **TABLEAU**
+- 🐙 **GITHUB**
+- 🔄 **AIRFLOW**
+- 🎸 **DJANGO**
+- 🌐 **NGINX**
 
 ### 📌 Умею
 
