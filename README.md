@@ -34,7 +34,7 @@
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>PANDAS</sub>
+    <sub>ᴘᴀɴᴅᴀꜱ</sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
