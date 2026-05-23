@@ -10,17 +10,15 @@
 </p>
 
 
-<small>## Обо мне</small>
+<h3 align="left">📖 Обо мне</h3>
 
-<small>
 - Принимаю решения на основе данных, а не догадок.
 - Люблю решать задачи на логику (Codewars, LeetCode).
 - Из театра в аналитику — управляю проектами и довожу до результата.
-</small>
 
 ---
 
-### 🛠 Инструменты
+<h4 align="left">🛠 Инструменты</h4>
 
 <p style="line-height: 1.2;">
   <span style="display: inline-block; vertical-align: middle;">
