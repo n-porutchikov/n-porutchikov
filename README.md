@@ -11,21 +11,21 @@
 
 ### 🛠 Инструменты
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> <code>python</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> <code>sql</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" height="20"/> <code>pandas</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" height="20"/> <code>numpy</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="20" height="20"/> <code>plotly</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>scipy</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="20" height="20"/> <code>seaborn</code><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20" height="20"/> <code>matplotlib</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20"/> <code>jupyter</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>datalens</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="20" height="20"/> <code>airflow</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="20" height="20"/> <code>api</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> <code>git</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>tableau</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>excel</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> <span style="font-family: monospace;">python</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> <span style="font-family: monospace;">sql</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" height="20"/> <span style="font-family: monospace;">pandas</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" height="20"/> <span style="font-family: monospace;">numpy</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="20" height="20"/> <span style="font-family: monospace;">plotly</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-family: monospace;">scipy</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="20" height="20"/> <span style="font-family: monospace;">seaborn</span><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20" height="20"/> <span style="font-family: monospace;">matplotlib</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20"/> <span style="font-family: monospace;">jupyter</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-family: monospace;">datalens</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="20" height="20"/> <span style="font-family: monospace;">airflow</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="20" height="20"/> <span style="font-family: monospace;">api</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> <span style="font-family: monospace;">git</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-family: monospace;">tableau</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-family: monospace;">excel</span>
 </p>
 ### 📌 Умею
 
