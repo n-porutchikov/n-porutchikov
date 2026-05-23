@@ -82,7 +82,7 @@
 
 ---
 
-# Мои проекты:
+</h4># Мои проекты:</h4>
 | Название проекта | Описание | Стек |
 |---|---|---|
 | [Анализ продаж видеоигр в Steam](https://github.com/n-porutchikov/data-analytics-projects/tree/main/project_steam) | Проверка гипотез о влиянии цены, оценок и сезонности на продажи игр. Сбор данных через Steam API, статистический анализ. | Python, Pandas, SciPy, Matplotlib, Seaborn |
