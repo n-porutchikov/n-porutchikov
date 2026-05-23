@@ -10,55 +10,14 @@
 ---
 
 ### 🛠 Инструменты
-<p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/><br>
-        <b>PYTHON</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/><br>
-        <b>SQL</b>
-       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/><br>
-        <b>POSTGRESQL</b>
-       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30"/><br>
-        <b>PANDAS</b>
-       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30"/><br>
-        <b>NUMPY</b>
-       </td>
-     </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="30" height="30"/><br>
-        <b>PLOTLY</b>
-       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="30" height="30"/><br>
-        <b>SCIPY</b>
-       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" height="30"/><br>
-        <b>JUPYTER</b>
-       </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/yandex-datasphere/datasphere-tutorials/master/icons/datasphere.png" width="30" height="30"/><br>
-        <b>DATALENS</b>
-       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/><br>
-        <b>GIT</b>
-       </td>
-     </tr>
-   </table>
-</p>
-
+![Python](https://img.shields.io/badge/PYTHON-lightgrey?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-lightgrey?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-lightgrey?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-lightgrey?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/PLOTLY-lightgrey?style=for-the-badge&logo=plotly&logoColor=white)
+SCIPY &nbsp;&nbsp; DATALENS &nbsp;&nbsp;
+![Git](https://img.shields.io/badge/GIT-lightgrey?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### 📌 Умею
