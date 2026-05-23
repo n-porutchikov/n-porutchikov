@@ -69,9 +69,11 @@
       <b>API</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/dev
-
-
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/><br>
+      <b>GIT</b>
+    </td>
+  </tr>
+</table>
 
 
 
