@@ -19,7 +19,7 @@
       <b>PYTHON</b>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/No_Image_Available.jpg" onerror="this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'" width="30" height="30"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/><br>
       <b>SQL</b>
     </td>
     <td align="center" width="120">
@@ -57,7 +57,7 @@
       <b>JUPYTER</b>
     </td>
     <td align="center" width="120">
-      <img src="https://avatars.githubusercontent.com/u/123456789?s=200&v=4" onerror="this.src='https://yastatic.net/s3/home-static/_/8/8f/8f48397d21735f79938b9530536838b0.svg'" width="30" height="30"/><br>
+      <img src="https://avatars.githubusercontent.com/u/50209616?s=200&v=4" width="30" height="30"/><br>
       <b>DATALENS</b>
     </td>
     <td align="center" width="120">
@@ -74,6 +74,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
