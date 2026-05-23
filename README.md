@@ -11,7 +11,7 @@
 
 ### 🛠 Инструменты
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" style="vertical-align: middle;"/> <sub style="vertical-align: middle;">PYTHON</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" style="vertical-align: middle;"/> <sub style="vertical-align: middle;">python</sub>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" style="vertical-align: middle;"/> <sub style="vertical-align: middle;">SQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" height="20" style="vertical-align: middle;"/> <sub style="vertical-align: middle;">PANDAS</sub>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" height="20" style="vertical-align: middle;"/> <sub style="vertical-align: middle;">NUMPY</sub>&nbsp;&nbsp;&nbsp;&nbsp;
