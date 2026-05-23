@@ -10,24 +10,22 @@
 ---
 
 ### 🛠 Инструменты
-<link href="https://fonts.googleapis.com/css2?family=Strait&display=swap" rel="stylesheet">
-
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">PYTHON</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">SQL</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">PANDAS</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">NUMPY</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">PLOTLY</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-family: 'Strait', monospace;">SCIPY</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">SEABORN</span><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">MATPLOTLIB</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">JUPYTER</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-family: 'Strait', monospace;">DATALENS</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">AIRFLOW</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">API</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> <span style="font-family: 'Strait', monospace;">GIT</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-family: 'Strait', monospace;">TABLEAU</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-family: 'Strait', monospace;">EXCEL</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> PYTHON&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> SQL&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" height="20"/> PANDAS&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" height="20"/> NUMPY&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="20" height="20"/> PLOTLY&nbsp;&nbsp;&nbsp;&nbsp;
+  SCIPY&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="20" height="20"/> SEABORN<br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20" height="20"/> MATPLOTLIB&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20"/> JUPYTER&nbsp;&nbsp;&nbsp;&nbsp;
+  DATALENS&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="20" height="20"/> AIRFLOW&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="20" height="20"/> API&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> GIT&nbsp;&nbsp;&nbsp;&nbsp;
+  TABLEAU&nbsp;&nbsp;&nbsp;&nbsp;
+  EXCEL
 </p>
 ### 📌 Умею
 
