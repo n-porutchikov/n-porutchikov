@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://t.me/@NikolaiPor">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" width="100" />
+  </a>&nbsp;
   <a href="https://vk.com/k.porutchikov">
-    <img src="https://img.shields.io/badge/VK-0088cc?style=flat-square&logo=vk&logoColor=white" />
+    <img src="https://img.shields.io/badge/VK-0088cc?style=flat-square&logo=vk&logoColor=white" width="100" />
   </a>
 </p>
 
