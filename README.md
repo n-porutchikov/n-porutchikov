@@ -1,14 +1,4 @@
 <h1 align="center"> Привет, я Николай 👋</h1>
-
-
-
-<h4 align="left"> Обо мне:</h4>
-
-- Принимаю решения на основе данных, а не догадок.
-- Люблю решать задачи на логику (Codewars, LeetCode).
-- Из театра в аналитику — управляю проектами и довожу до результата.
----
-<h4 align="left"> Связь со мной::</h4>
 <p align="center">
   <a href="https://t.me/@NikolaiPor">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" style="min-width: 120px; height: 28px;" />
@@ -18,7 +8,14 @@
   </a>
 </p>
 
+
+<h4 align="left"> Обо мне:</h4>
+
+- Принимаю решения на основе данных, а не догадок.
+- Люблю решать задачи на логику (Codewars, LeetCode).
+- Из театра в аналитику — управляю проектами и довожу до результата.
 ---
+
 
 <h4 align="left">🛠 Инструменты:</h4>
 
