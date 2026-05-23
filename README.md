@@ -17,59 +17,59 @@
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">PYTHON</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">SQL</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">POSTGRESQL</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">PANDAS</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">NUMPY</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">PLOTLY</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <b style="font-size: 8px;">SCIPY</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">SEABORN</b>
-      </td
+    </td>
   </tr>
   <tr>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">MATPLOTLIB</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">JUPYTER</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <b style="font-size: 8px;">DATALENS</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">AIRFLOW</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">API</b>
-      </td
+    </td>
     <td align="center" width="80" style="padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16"/><br/>
       <b style="font-size: 8px;">GIT</b>
-      </td
+     </td>
   </tr>
 </table>
 ### 📌 Умею
