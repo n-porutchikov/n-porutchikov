@@ -73,7 +73,6 @@
       <b>GIT</b>
     </td>
   </tr>
-</table>
 
 
 
