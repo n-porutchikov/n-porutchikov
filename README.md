@@ -10,7 +10,7 @@
 </p>
 
 
-<h3 align="left">📖 Обо мне</h3>
+<h4 align="left">📖 Обо мне:</h4>
 
 - Принимаю решения на основе данных, а не догадок.
 - Люблю решать задачи на логику (Codewars, LeetCode).
@@ -18,7 +18,7 @@
 
 ---
 
-<h4 align="left">🛠 Инструменты</h4>
+<h4 align="left">🛠 Инструменты:</h4>
 
 <p style="line-height: 1.2;">
   <span style="display: inline-block; vertical-align: middle;">
