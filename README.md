@@ -1,18 +1,21 @@
 <h1 align="center">👋 Привет, я Николай</h1>
 
+
 <p align="center">
-  <a href="https://t.me/@NikolaiPor" style="text-decoration: none;">
-    <span style="background-color: #0088cc; color: #ffffff; font-family: Arial, sans-serif; font-weight: bold; font-size: 14px; padding: 8px 16px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: brightness(0) invert(1);"/>
-      TELEGRAM
-    </span>
+  <!-- Кнопка Telegram -->
+  <a href="https://t.me/@NikolaiPor" style="text-decoration: none; display: inline-block;">
+    <div style="background-color: #0088cc; color: #ffffff; font-family: Arial, sans-serif; font-weight: bold; font-size: 14px; padding: 10px 20px; border-radius: 4px; display: flex; align-items: center; gap: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" style="filter: brightness(0) invert(1);"/>
+      <span>TELEGRAM</span>
+    </div>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://vk.com/k.porutchikov" style="text-decoration: none;">
-    <span style="background-color: #0077FF; color: #ffffff; font-family: Arial, sans-serif; font-weight: bold; font-size: 14px; padding: 8px 16px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com_logo.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px; filter: brightness(0) invert(1);"/>
-      VK
-    </span>
+  
+  <!-- Кнопка VK -->
+  <a href="https://vk.com/k.porutchikov" style="text-decoration: none; display: inline-block; margin-left: 10px;">
+    <div style="background-color: #0077FF; color: #ffffff; font-family: Arial, sans-serif; font-weight: bold; font-size: 14px; padding: 10px 20px; border-radius: 4px; display: flex; align-items: center; gap: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com_logo.svg" width="20" height="20" style="filter: brightness(0) invert(1);"/>
+      <span>VK</span>
+    </div>
   </a>
 </p>
 
