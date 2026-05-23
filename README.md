@@ -13,66 +13,65 @@
 <p align="center">
   <table align="center" border="0">
     <tr>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/><br>
         <b>PYTHON</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16"/><br>
         <b>SQL</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16"/><br>
         <b>POSTGRESQL</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="16" height="16"/><br>
         <b>PANDAS</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="16" height="16"/><br>
         <b>NUMPY</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="16" height="16"/><br>
         <b>PLOTLY</b>
        </td>
-      <td align="center" width="80">
+      <td align="center" width="80" style="font-size: 10px;">
         <b>SCIPY</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="16" height="16"/><br>
         <b>SEABORN</b>
        </td>
     </tr>
     <tr>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="16" height="16"/><br>
         <b>MATPLOTLIB</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="16" height="16"/><br>
         <b>JUPYTER</b>
        </td>
-      <td align="center" width="80">
+      <td align="center" width="80" style="font-size: 10px;">
         <b>DATALENS</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="16" height="16"/><br>
         <b>AIRFLOW</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="16" height="16"/><br>
         <b>API</b>
        </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="10" height="10"/><br>
+      <td align="center" width="80" style="font-size: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16"/><br>
         <b>GIT</b>
        </td>
     </tr>
   </table>
 </p>
-
 ### 📌 Умею
 
 Когортный анализ, A/B тестирование, оконные функции, дашборды, работа с БД (ClickHouse, MySQL, PostgreSQL)
