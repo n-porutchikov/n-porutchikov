@@ -21,7 +21,7 @@
 ---
 
 
-<h3 align="left">🛠 Инструменты:</h3>
+### 🛠️ Языки и инструменты : 
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL" title="SQL" alt="SQL" height="40"/>&nbsp;
