@@ -1,8 +1,8 @@
 <h1 align="center">👋 Привет, я Николай</h1>
 
 <p align="center">
-  <a href="https://t.me/@NikolaiPor">TELEGRAM</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vk.com/k.porutchikov">VK</a>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/> <a href="https://t.me/@NikolaiPor">@NikolaiPor</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=white"/> <a href="https://vk.com/k.porutchikov">k.porutchikov</a>
 </p>
 
 ## 📊 Обо мне
