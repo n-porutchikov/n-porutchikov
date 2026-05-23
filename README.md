@@ -1,11 +1,11 @@
 <h1 align="center">👋 Привет, я Николай</h1>
 
 <p align="center">
-  <a href="https://t.me/@NikolaiPor" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" />
+  <a href="https://t.me/@NikolaiPor">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" style="min-width: 120px; height: 28px;" />
   </a>&nbsp;&nbsp;
-  <a href="https://vk.com/k.porutchikov" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/VK-0088cc?style=flat-square&logo=vk&logoColor=white" />
+  <a href="https://vk.com/k.porutchikov">
+    <img src="https://img.shields.io/badge/VK-0088cc?style=flat-square&logo=vk&logoColor=white" style="min-width: 120px; height: 28px;" />
   </a>
 </p>
 
