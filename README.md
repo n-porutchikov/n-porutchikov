@@ -23,65 +23,103 @@
 
 <h3 align="left">🛠 Инструменты:</h3>
 
-<p style="line-height: 1.2;">
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>PYTHON </sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>SQL</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>PANDAS </sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>NUMPY</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>PLOTLY</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <sub>SCIPY</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>SEABORN</sub>
-  </span>
-  <br/><br/>
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>MATPLOTLIB</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>JUPYTER</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <sub>DATALENS</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>AIRFLOW</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>API</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>GIT</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <sub>TABLEAU</sub>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle;">
-    <sub>EXCEL</sub>
-  </span>
-</p>
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #333;">
+  <h3 style="margin-bottom: 15px; font-weight: 600;">
+    <span style="font-size: 1.2em; margin-right: 8px;">🛠️</span>Языки и инструменты :
+  </h3>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 20px 24px;">
+    <!-- Python -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python">
+      <span>PYTHON</span>
+    </div>
+
+    <!-- SQL -->
+    <div style="display: flex; align-items: center; gap: 8px; background-color: #007bff; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
+      <span>SQL</span>
+    </div>
+
+    <!-- PostgreSQL -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" alt="PostgreSQL">
+      <span>POSTGRESQL</span>
+    </div>
+
+    <!-- Pandas -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" height="20" alt="Pandas">
+      <span>PANDAS</span>
+    </div>
+
+    <!-- Numpy -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" height="20" alt="Numpy">
+      <span>NUMPY</span>
+    </div>
+
+    <!-- Plotly -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="20" height="20" alt="Plotly">
+      <span>PLOTLY</span>
+    </div>
+
+    <!-- Scipy -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SciPy_2020_icon.svg/1200px-SciPy_2020_icon.svg.png" width="20" height="20" alt="Scipy">
+      <span>SCIPY</span>
+    </div>
+
+    <!-- Seaborn -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="20" height="20" alt="Seaborn">
+      <span>SEABORN</span>
+    </div>
+
+    <!-- Matplotlib -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20" height="20" alt="Matplotlib">
+      <span>MATPLOTLIB</span>
+    </div>
+
+    <!-- Jupyter Notebook -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20" alt="Jupyter">
+      <span>JUPYTER NOTEBOOK</span>
+    </div>
+
+    <!-- Redash -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/redash.svg" width="20" height="20" alt="Redash">
+      <span>REDASH</span>
+    </div>
+
+    <!-- DataLens -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <!-- Используем текстовую заглушку или иконку Яндекса, так как отдельной иконки DataLens в стандартных наборах мало -->
+      <span style="font-weight: bold; color: #fc0;">Y</span> 
+      <span>DATALENS</span>
+    </div>
+
+    <!-- Airflow -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="20" height="20" alt="Airflow">
+      <span>AIRFLOW</span>
+    </div>
+
+    <!-- API -->
+    <div style="display: flex; align-items: center; gap: 8px; background-color: #ff6b00; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
+      <span>API</span>
+    </div>
+
+    <!-- Git -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git">
+      <span>GIT</span>
+    </div>
+  </div>
+</div>
+
 
 ---
 
