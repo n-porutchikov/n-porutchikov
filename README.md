@@ -1,6 +1,7 @@
-<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Николай</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">
+  Привет, я Николай
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
 <p align="center">
   <a href="https://t.me/@NikolaiPor">
