@@ -1,4 +1,7 @@
-<h1 align="center">👋 Привет, я Николай</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/du3J3Xyzhj75IOgvA/giphy.gif" width="40" style="vertical-align: middle;" /> 
+  Привет, я Николай
+</h1>
 
 <p align="center">
   <a href="https://t.me/@NikolaiPor">
