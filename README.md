@@ -1,4 +1,7 @@
-<h1 align="center"> Привет, я Николай 👋</h1>
+<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Николай</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+
 <p align="center">
   <a href="https://t.me/@NikolaiPor">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" style="min-width: 120px; height: 28px;" />
