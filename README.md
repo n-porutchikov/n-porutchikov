@@ -39,40 +39,40 @@
       <b>PLOTLY</b>
      </td>
     <td align="center" width="80" style="font-size: 10px; padding: 4px;">
+      <div style="height: 16px;"></div>
       <b>SCIPY</b>
      </td>
     <td align="center" width="80" style="font-size: 10px; padding: 4px;">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="16" height="16"/><br/>
       <b>SEABORN</b>
      </td>
-   </tr>
-   <tr>
+  </tr>
+  <tr>
     <td align="center" width="80" style="font-size: 10px; padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="16" height="16"/><br/>
       <b>MATPLOTLIB</b>
-     </td>
+      </td>
     <td align="center" width="80" style="font-size: 10px; padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="16" height="16"/><br/>
       <b>JUPYTER</b>
-     </td>
+      </td>
     <td align="center" width="80" style="font-size: 10px; padding: 4px;">
+      <div style="height: 16px;"></div>
       <b>DATALENS</b>
-     </td>
+      </td>
     <td align="center" width="80" style="font-size: 10px; padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="16" height="16"/><br/>
       <b>AIRFLOW</b>
-     </td>
+      </td>
     <td align="center" width="80" style="font-size: 10px; padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="16" height="16"/><br/>
       <b>API</b>
-     </td>
+      </td>
     <td align="center" width="80" style="font-size: 10px; padding: 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16"/><br/>
       <b>GIT</b>
-     </td>
-    <td></td>
-    <td></td>
-   </tr>
+      </td>
+  </tr>
 </table>
 ### 📌 Умею
 
