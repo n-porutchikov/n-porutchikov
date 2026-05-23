@@ -26,7 +26,7 @@
 <p style="line-height: 1.2;">
   <span style="display: inline-block; vertical-align: middle;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
-    <sub>PYTHON</sub>
+    <sub>PYTHON </sub>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: middle;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="12" height="12" style="vertical-align: middle; margin-right: 2px;"/> 
