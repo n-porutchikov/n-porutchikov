@@ -10,7 +10,19 @@
 ---
 
 ### 🛠 Инструменты
-`PYTHON` `SQL` `POSTGRESQL` `PANDAS` `NUMPY` `PLOTLY` `SCIPY` `SEABORN` `MATPLOTLIB` `JUPYTER` `REDASH` `DATALENS` `AIRFLOW` `API` `GIT`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-lightgrey?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-lightgrey?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-lightgrey?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIPY-lightgrey?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUPYTER-lightgrey?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATALENS-lightgrey?style=for-the-badge&logo=yandex&logoColor=white" />
+  <img src="https://img.shields.io/badge/TABLEAU-lightgrey?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/AIRFLOW-lightgrey?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-lightgrey?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ### 📌 Умею
 
